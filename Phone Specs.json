@@ -8,7 +8,16 @@
     "storage": "64 GB / 256 GB",
     "battery": "2716 mAh",
     "processor": "Apple A11 Bionic",
-    "weight": "174 g"
+    "weight": "174 g",
+    "ramScore": 1,
+    "cpuScore": 1,
+    "batteryScore": 1,
+    "cameraScore": 3,
+    "gamingScore": 14,
+    "performanceScore": 10,
+    "batteryLifeScore": 1,
+    "cameraFocusScore": 8,
+    "budget": "low"
   },
   {
     "id": 2,
@@ -19,7 +28,16 @@
     "storage": "64 GB / 128 GB / 256 GB",
     "battery": "2942 mAh",
     "processor": "Apple A12 Bionic",
-    "weight": "194 g"
+    "weight": "194 g",
+    "ramScore": 1,
+    "cpuScore": 2,
+    "batteryScore": 2,
+    "cameraScore": 3,
+    "gamingScore": 19,
+    "performanceScore": 18,
+    "batteryLifeScore": 1,
+    "cameraFocusScore": 11,
+    "budget": "low"
   },
   {
     "id": 3,
@@ -30,7 +48,16 @@
     "storage": "64 GB / 256 GB / 512 GB",
     "battery": "2658 mAh",
     "processor": "Apple A12 Bionic",
-    "weight": "177 g"
+    "weight": "177 g",
+    "ramScore": 2,
+    "cpuScore": 2,
+    "batteryScore": 1,
+    "cameraScore": 3,
+    "gamingScore": 21,
+    "performanceScore": 20,
+    "batteryLifeScore": 1,
+    "cameraFocusScore": 12,
+    "budget": "low"
   },
   {
     "id": 4,
@@ -41,7 +68,16 @@
     "storage": "64 GB / 256 GB / 512 GB",
     "battery": "3174 mAh",
     "processor": "Apple A12 Bionic",
-    "weight": "208 g"
+    "weight": "208 g",
+    "ramScore": 2,
+    "cpuScore": 2,
+    "batteryScore": 3,
+    "cameraScore": 3,
+    "gamingScore": 27,
+    "performanceScore": 22,
+    "batteryLifeScore": 1,
+    "cameraFocusScore": 12,
+    "budget": "low"
   },
   {
     "id": 5,
@@ -52,7 +88,16 @@
     "storage": "64 GB / 128 GB / 256 GB",
     "battery": "3110 mAh",
     "processor": "Apple A13 Bionic",
-    "weight": "194 g"
+    "weight": "194 g",
+    "ramScore": 2,
+    "cpuScore": 3,
+    "batteryScore": 3,
+    "cameraScore": 4,
+    "gamingScore": 31,
+    "performanceScore": 30,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 20,
+    "budget": "low"
   },
   {
     "id": 6,
@@ -63,7 +108,16 @@
     "storage": "64 GB / 256 GB / 512 GB",
     "battery": "3046 mAh",
     "processor": "Apple A13 Bionic",
-    "weight": "188 g"
+    "weight": "188 g",
+    "ramScore": 2,
+    "cpuScore": 3,
+    "batteryScore": 2,
+    "cameraScore": 4,
+    "gamingScore": 32,
+    "performanceScore": 30,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 20,
+    "budget": "medium"
   },
   {
     "id": 7,
@@ -74,7 +128,16 @@
     "storage": "64 GB / 256 GB / 512 GB",
     "battery": "3969 mAh",
     "processor": "Apple A13 Bionic",
-    "weight": "226 g"
+    "weight": "226 g",
+    "ramScore": 2,
+    "cpuScore": 3,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 38,
+    "performanceScore": 30,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 20,
+    "budget": "medium"
   },
   {
     "id": 8,
@@ -85,7 +148,16 @@
     "storage": "64 GB / 128 GB / 256 GB",
     "battery": "2815 mAh",
     "processor": "Apple A14 Bionic",
-    "weight": "164 g"
+    "weight": "164 g",
+    "ramScore": 2,
+    "cpuScore": 3,
+    "batteryScore": 2,
+    "cameraScore": 4,
+    "gamingScore": 33,
+    "performanceScore": 34,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 20,
+    "budget": "medium"
   },
   {
     "id": 9,
@@ -96,7 +168,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "2815 mAh",
     "processor": "Apple A14 Bionic",
-    "weight": "189 g"
+    "weight": "189 g",
+    "ramScore": 3,
+    "cpuScore": 3,
+    "batteryScore": 2,
+    "cameraScore": 4,
+    "gamingScore": 37,
+    "performanceScore": 38,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 22,
+    "budget": "medium"
   },
   {
     "id": 10,
@@ -107,7 +188,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "3687 mAh",
     "processor": "Apple A14 Bionic",
-    "weight": "228 g"
+    "weight": "228 g",
+    "ramScore": 3,
+    "cpuScore": 3,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 41,
+    "performanceScore": 38,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 22,
+    "budget": "medium"
   },
   {
     "id": 11,
@@ -118,7 +208,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "3240 mAh",
     "processor": "Apple A15 Bionic",
-    "weight": "174 g"
+    "weight": "174 g",
+    "ramScore": 2,
+    "cpuScore": 4,
+    "batteryScore": 2,
+    "cameraScore": 4,
+    "gamingScore": 38,
+    "performanceScore": 40,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 24,
+    "budget": "medium"
   },
   {
     "id": 12,
@@ -129,7 +228,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "3095 mAh",
     "processor": "Apple A15 Bionic",
-    "weight": "204 g"
+    "weight": "204 g",
+    "ramScore": 3,
+    "cpuScore": 4,
+    "batteryScore": 2,
+    "cameraScore": 5,
+    "gamingScore": 43,
+    "performanceScore": 44,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 26,
+    "budget": "high"
   },
   {
     "id": 13,
@@ -140,7 +248,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "4352 mAh",
     "processor": "Apple A15 Bionic",
-    "weight": "240 g"
+    "weight": "240 g",
+    "ramScore": 3,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 49,
+    "performanceScore": 44,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 26,
+    "budget": "high"
   },
   {
     "id": 14,
@@ -151,7 +268,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "3279 mAh",
     "processor": "Apple A15 Bionic",
-    "weight": "172 g"
+    "weight": "172 g",
+    "ramScore": 3,
+    "cpuScore": 4,
+    "batteryScore": 3,
+    "cameraScore": 4,
+    "gamingScore": 43,
+    "performanceScore": 44,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 24,
+    "budget": "high"
   },
   {
     "id": 15,
@@ -162,7 +288,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "3200 mAh",
     "processor": "Apple A16 Bionic",
-    "weight": "206 g"
+    "weight": "206 g",
+    "ramScore": 3,
+    "cpuScore": 5,
+    "batteryScore": 3,
+    "cameraScore": 5,
+    "gamingScore": 47,
+    "performanceScore": 50,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 28,
+    "budget": "high"
   },
   {
     "id": 16,
@@ -173,7 +308,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "4323 mAh",
     "processor": "Apple A16 Bionic",
-    "weight": "240 g"
+    "weight": "240 g",
+    "ramScore": 3,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 51,
+    "performanceScore": 50,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 28,
+    "budget": "high"
   },
   {
     "id": 17,
@@ -184,7 +328,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "3349 mAh",
     "processor": "Apple A16 Bionic",
-    "weight": "171 g"
+    "weight": "171 g",
+    "ramScore": 3,
+    "cpuScore": 5,
+    "batteryScore": 3,
+    "cameraScore": 4,
+    "gamingScore": 46,
+    "performanceScore": 50,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 24,
+    "budget": "high"
   },
   {
     "id": 18,
@@ -195,7 +348,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "3274 mAh",
     "processor": "Apple A17 Pro",
-    "weight": "187 g"
+    "weight": "187 g",
+    "ramScore": 4,
+    "cpuScore": 5,
+    "batteryScore": 3,
+    "cameraScore": 5,
+    "gamingScore": 51,
+    "performanceScore": 55,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 19,
@@ -206,7 +368,16 @@
     "storage": "256 GB / 512 GB / 1 TB",
     "battery": "4422 mAh",
     "processor": "Apple A17 Pro",
-    "weight": "221 g"
+    "weight": "221 g",
+    "ramScore": 4,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 55,
+    "performanceScore": 55,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 20,
@@ -217,7 +388,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "Approx. 3500 mAh",
     "processor": "Apple A18",
-    "weight": "170 g"
+    "weight": "170 g",
+    "ramScore": 3,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 50,
+    "performanceScore": 55,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 25,
+    "budget": "high"
   },
   {
     "id": 21,
@@ -228,7 +408,16 @@
     "storage": "128 GB / 256 GB / 512 GB / 1 TB",
     "battery": "Approx. 3500 mAh",
     "processor": "Apple A18 Pro",
-    "weight": "199 g"
+    "weight": "199 g",
+    "ramScore": 4,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 55,
+    "performanceScore": 60,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 22,
@@ -239,7 +428,16 @@
     "storage": "256 GB / 512 GB / 1 TB",
     "battery": "Approx. 4400 mAh",
     "processor": "Apple A18 Pro",
-    "weight": "227 g"
+    "weight": "227 g",
+    "ramScore": 4,
+    "cpuScore": 5,
+    "batteryScore": 5,
+    "cameraScore": 5,
+    "gamingScore": 60,
+    "performanceScore": 60,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 23,
@@ -250,7 +448,16 @@
     "storage": "64 GB / 128 GB / 256 GB",
     "battery": "Approx. 3000 mAh",
     "processor": "Apple A17",
-    "weight": "165 g"
+    "weight": "165 g",
+    "ramScore": 2,
+    "cpuScore": 5,
+    "batteryScore": 3,
+    "cameraScore": 4,
+    "gamingScore": 44,
+    "performanceScore": 45,
+    "batteryLifeScore": 2,
+    "cameraFocusScore": 24,
+    "budget": "medium"
   },
   {
     "id": 24,
@@ -261,7 +468,16 @@
     "storage": "64 GB / 128 GB",
     "battery": "5000 mAh",
     "processor": "MediaTek Helio G85",
-    "weight": "195 g"
+    "weight": "195 g",
+    "ramScore": 1,
+    "cpuScore": 1,
+    "batteryScore": 4,
+    "cameraScore": 2,
+    "gamingScore": 14,
+    "performanceScore": 12,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 8,
+    "budget": "low"
   },
   {
     "id": 25,
@@ -272,7 +488,16 @@
     "storage": "64 GB / 128 GB",
     "battery": "5000 mAh",
     "processor": "MediaTek Helio G70",
-    "weight": "190 g"
+    "weight": "190 g",
+    "ramScore": 1,
+    "cpuScore": 1,
+    "batteryScore": 4,
+    "cameraScore": 2,
+    "gamingScore": 16,
+    "performanceScore": 14,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 9,
+    "budget": "low"
   },
   {
     "id": 26,
@@ -282,8 +507,17 @@
     "ram": "4 GB / 6 GB / 8 GB",
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
-    "processor": "MediaTek Dimensity 6300 or Exynos 1330",
-    "weight": "200 g"
+    "processor": "MediaTek Dimensity 6300 / Exynos 1330",
+    "weight": "200 g",
+    "ramScore": 2,
+    "cpuScore": 2,
+    "batteryScore": 4,
+    "cameraScore": 3,
+    "gamingScore": 20,
+    "performanceScore": 20,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 12,
+    "budget": "medium"
   },
   {
     "id": 27,
@@ -294,7 +528,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1280",
-    "weight": "197 g"
+    "weight": "197 g",
+    "ramScore": 3,
+    "cpuScore": 3,
+    "batteryScore": 4,
+    "cameraScore": 3,
+    "gamingScore": 28,
+    "performanceScore": 28,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 14,
+    "budget": "medium"
   },
   {
     "id": 28,
@@ -305,7 +548,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1280",
-    "weight": "197 g"
+    "weight": "197 g",
+    "ramScore": 3,
+    "cpuScore": 3,
+    "batteryScore": 4,
+    "cameraScore": 3,
+    "gamingScore": 28,
+    "performanceScore": 28,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 14,
+    "budget": "medium"
   },
   {
     "id": 29,
@@ -316,7 +568,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1380",
-    "weight": "202 g"
+    "weight": "202 g",
+    "ramScore": 3,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 36,
+    "performanceScore": 35,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 18,
+    "budget": "medium"
   },
   {
     "id": 30,
@@ -327,7 +588,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1480",
-    "weight": "213 g"
+    "weight": "213 g",
+    "ramScore": 4,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 38,
+    "performanceScore": 37,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 18,
+    "budget": "medium"
   },
   {
     "id": 31,
@@ -338,7 +608,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1380",
-    "weight": "209 g"
+    "weight": "209 g",
+    "ramScore": 4,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 38,
+    "performanceScore": 37,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 18,
+    "budget": "medium"
   },
   {
     "id": 32,
@@ -349,7 +628,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1580",
-    "weight": "Approximately 210 g"
+    "weight": "Approximately 210 g",
+    "ramScore": 4,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 40,
+    "performanceScore": 38,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 19,
+    "budget": "medium"
   },
   {
     "id": 33,
@@ -360,7 +648,16 @@
     "storage": "128 GB / 256 GB",
     "battery": "5000 mAh",
     "processor": "Exynos 1580",
-    "weight": "Approximately 210 g"
+    "weight": "Approximately 210 g",
+    "ramScore": 4,
+    "cpuScore": 4,
+    "batteryScore": 4,
+    "cameraScore": 4,
+    "gamingScore": 40,
+    "performanceScore": 38,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 19,
+    "budget": "medium"
   },
   {
     "id": 34,
@@ -371,7 +668,16 @@
     "storage": "128 GB / 256 GB / 512 GB",
     "battery": "4000 mAh",
     "processor": "Snapdragon 8 Gen 3 for Galaxy",
-    "weight": "168 g"
+    "weight": "168 g",
+    "ramScore": 5,
+    "cpuScore": 5,
+    "batteryScore": 3,
+    "cameraScore": 5,
+    "gamingScore": 50,
+    "performanceScore": 55,
+    "batteryLifeScore": 3,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 35,
@@ -382,7 +688,16 @@
     "storage": "256 GB / 512 GB",
     "battery": "4900 mAh",
     "processor": "Snapdragon 8 Gen 3 for Galaxy",
-    "weight": "196 g"
+    "weight": "196 g",
+    "ramScore": 5,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 55,
+    "performanceScore": 55,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 30,
+    "budget": "high"
   },
   {
     "id": 36,
@@ -393,6 +708,16 @@
     "storage": "256 GB / 512 GB / 1 TB",
     "battery": "5000 mAh",
     "processor": "Snapdragon 8 Gen 3 for Galaxy",
-    "weight": "233 g"
+    "weight": "233 g",
+    "ramScore": 5,
+    "cpuScore": 5,
+    "batteryScore": 4,
+    "cameraScore": 5,
+    "gamingScore": 60,
+    "performanceScore": 60,
+    "batteryLifeScore": 4,
+    "cameraFocusScore": 32,
+    "budget": "high"
   }
+
 ]
